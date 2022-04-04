@@ -20,3 +20,11 @@ priority_file = "images/logop.png"
 startx = 17
 starty = 1106
 priority = 3
+
+[[structure]]
+name = "skin"
+file = "images/skin.png"
+priority_file = "images/skinp.png"
+startx = 16
+starty = 1097
+priority = 3
