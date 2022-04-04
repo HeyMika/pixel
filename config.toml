@@ -18,5 +18,5 @@ name = "cyubevr"
 file = "images/cyubevr.png"
 priority_file = "images/cyubevr_priority.png"
 startx = 1694
-starty = 1117
+starty = 1115
 priority = 3
