@@ -14,9 +14,9 @@ version = 16
 "3" = 10
 
 [[structure]]
-name = "logo"
-file = "images/logo.png"
-priority_file = "images/logop.png"
+name = "final"
+file = "images/final.png"
+priority_file = "images/finalp.png"
 startx = 15
 starty = 1096
 priority = 3
