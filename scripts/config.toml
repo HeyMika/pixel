@@ -14,9 +14,9 @@ version = 16
 "3" = 10
 
 [[structure]]
-name = "cyubevr"
-file = "images/cyubevr.png"
-priority_file = "images/cyubevr_priority.png"
-startx = 0
-starty = 1107
+name = "logo"
+file = "images/logo.png"
+priority_file = "images/logop.png"
+startx = 7
+starty = 1105
 priority = 3
