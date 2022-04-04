@@ -17,14 +17,6 @@ version = 16
 name = "logo"
 file = "images/logo.png"
 priority_file = "images/logop.png"
-startx = 17
-starty = 1106
-priority = 3
-
-[[structure]]
-name = "skin"
-file = "images/skin.png"
-priority_file = "images/skinp.png"
-startx = 16
-starty = 1097
+startx = 15
+starty = 1096
 priority = 3
